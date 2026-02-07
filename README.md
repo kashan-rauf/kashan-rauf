@@ -1,14 +1,64 @@
-## Hi there 👋
-**kashan-rauf/kashan-rauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> 👨‍💻 Kashan Rauf</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**`Growth Lead at NextWork`** 
+
+
+## 💬 About
+- Full-Stack Web Development (Frontend & Backend)  
+- Docker & Kubernetes fundamentals  
+- Linux & Git/GitHub  
+- ML/DL basics & Google Colab workflows
+
+
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,python,typescript,nodejs,python,docker,kubernetes,linux,react)](https://skillicons.dev)
+
+**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+
+
+
+## 👯 I’m looking to collaborate on
+**Full-Stack Web & Cloud-Native Projects**  
+🔗 React, Node.js, Docker, Kubernetes based applications
+
+
+
+## 🤝 I’m looking for help with
+**Production-level ML/DL Deployment & MLOps**  
+🔗 Model optimization, deployment pipelines, and monitoring
+
+
+
+## 🌱 I’m currently learning
+- Advanced Machine Learning & Deep Learning  
+- MLOps fundamentals  
+- Kubernetes (intermediate to advanced)  
+- CI/CD pipelines & cloud deployment  
+
+
+
+<p>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kashan-rauf-472a41336" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/kashanrauf" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"
+         alt="Kaggle"
+         width="48" height="48"/>
+  </a>
+</p>
+
+
+
+## 🔥 My Stats
+
+
+![Kashan Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashan-rauf&show_icons=true&theme=radical&cache_seconds=86400)
+
 
