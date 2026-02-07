@@ -58,7 +58,5 @@
 
 ## 🔥 My Stats
 
-
-![Kashan Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashan-rauf&show_icons=true&theme=radical&cache_seconds=86400)
-
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashan-rauf&theme=github_dark)
 
