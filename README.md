@@ -14,7 +14,7 @@
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,python,typescript,nodejs,python,docker,kubernetes,linux,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,python,typescript,nodejs,python,docker,kubernetes,linux,azure,react)](https://skillicons.dev)
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
